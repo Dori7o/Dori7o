@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.shutterstock.com/image-vector/cute-cat-hacker-operating-laptop-600nw-2235950657.jpg" align="center" style="width: 40%" />
+<img src="https://www.shutterstock.com/image-vector/cute-cat-hacker-operating-laptop-600nw-2235950657.jpg" align="center" style="width: 42%" />
 </div>  
 
 ### <div align="center">I'm Ricardo, a full-time full-stack 👨‍💻 stay curious, grow everyday 🚀</div>  
