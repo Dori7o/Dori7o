@@ -5,10 +5,10 @@
 ### <div align="center">I'm Ricardo, a full-time full-stack 👨‍💻 stay curious, grow everyday 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Microservices](https://github.com/Dori7o/microservice)  
+- :punch: I’m currently working on [Github Microservices](https://github.com/Dori7o/microservice)  
   
 
-- 🌱 I’m currently learning C# and .NET 
+- :bookmark: I’m currently learning C# and .NET 
   
 
 - ❓ Ask me about anything related to back-end technologies  
