@@ -11,7 +11,7 @@
 - :bookmark: I’m currently learning C# and .NET 
   
 
-- ❓ Ask me about anything related to back-end technologies  
+- ❓ Always looking for a new challenge
   
 
 - ⚡ Fun fact: Popcorn is sometimes my entire meal — I love it!
