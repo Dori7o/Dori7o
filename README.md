@@ -41,7 +41,7 @@
 <img style="margin: 10px" src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="Spring" height="50" />
 <img style="margin: 10px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" height="50" />
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/dotnet_logo_icon_170223.png" alt=".NET" height="50" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt=".NET" height="50" />
 </div></td><td valign="top" width="33%">
 
 ### DevOps  
