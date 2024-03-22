@@ -5,7 +5,7 @@
 ### <div align="center">I'm Ricardo, a full-time full-stack 👨‍💻 stay curious, grow everyday 🚀</div>  
   
 
-- :punch: I’m currently working on [Github C#]((https://github.com/Dori7o/AuctionSite)  
+- :punch: I’m currently working on [Github C#](https://github.com/Dori7o/AuctionSite)  
   
 
 - :bookmark: I’m currently learning C# and .NET 
