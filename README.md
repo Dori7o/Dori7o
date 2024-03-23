@@ -40,8 +40,10 @@
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" alt="Java" height="50" />
 <img style="margin: 10px" src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="Spring" height="50" />
 <img style="margin: 10px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL" height="50" />
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-5-1175140.png?f=webp" alt="MongoDB" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt=".NET" height="50" />
+
 </div></td><td valign="top" width="33%">
 
 ### DevOps  
