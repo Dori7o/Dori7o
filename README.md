@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://www.shutterstock.com/image-vector/cute-cat-hacker-operating-laptop-600nw-2235950657.jpg" align="center" style="width: 42%" />
+<!---<img src="https://www.shutterstock.com/image-vector/cute-cat-hacker-operating-laptop-600nw-2235950657.jpg" align="center" style="width: 42%" />---!>
+<img src="https://www.wikihow.com/images/thumb/a/ae/Start-Learning-Computer-Programming-Step-1-Version-4.jpg/v4-728px-Start-Learning-Computer-Programming-Step-1-Version-4.jpg.webp" align="center" style="width: 42%" />
 </div>  
 
 ### <div align="center">I'm Ricardo, a full-time full-stack 👨‍💻 stay curious, grow everyday 🚀</div>  
